@@ -1,2 +1,2 @@
 # Grabadora_de_Audio
-Este programa te permitira grabar audio en segundo plano y de forma opcional subirlo a un servidor de forma automatizada 
+This program will allow you to record audio in the background and optionally upload it to a server in an automated way. (stil in development)
